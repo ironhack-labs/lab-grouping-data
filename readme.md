@@ -79,3 +79,11 @@ Import the csv into Tableau and answer the following questions:
 
     - Plot average balance for each group. Do you observe any trend?
 
+## Deliverables
+
+- `main.txt` file with a link to your Tableau Public workbook.
+
+## Submission
+
+Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+
